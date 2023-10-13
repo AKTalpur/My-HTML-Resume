@@ -1,2 +1,2 @@
-# my-resume
+# My-Resume
 My Resume Project
