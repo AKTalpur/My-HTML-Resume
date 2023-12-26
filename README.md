@@ -1,2 +1,2 @@
 # My-Resume
-My Resume using HTML.
+My Resume made using HTML.
